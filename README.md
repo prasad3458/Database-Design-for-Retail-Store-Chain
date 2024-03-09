@@ -12,4 +12,5 @@ Problem Statements to be Addressed:
 4. Identify any products that might be underperforming or are not being sold.
 5. Review the sales performance from all the locations.
 
-6. We want to have a strong Database Management System for our use case.
+
+We want to have a strong Database Management System for our use case.
